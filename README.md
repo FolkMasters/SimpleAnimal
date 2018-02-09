@@ -10,7 +10,7 @@
 
 [学习地址](/http://46aae4d1e2371e4aa769798941cef698.devproxy.yunshipei.com/zsk_zane/article/details/47205403) 
 
-![qewrq.gif](http://upload-images.jianshu.io/upload_images/2891452-fa7374633303ab11.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![qewrq.gif](http://upload-images.jianshu.io/upload_images/2891452-e9f8125caa205b81.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 demo效果 
 
